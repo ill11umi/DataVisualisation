@@ -1,4 +1,4 @@
-Seasborn
-Line charts
-Bar  charts and heatmaps
-Scatter plots
+# Seasborn
+# Line charts
+# Bar  charts and heatmaps
+# Scatter plots
